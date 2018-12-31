@@ -1,1 +1,1 @@
-# nextjs-boilerplate-for-static-pages
+# nextjs-boilerplate-for-static-pages# todo-webapp
